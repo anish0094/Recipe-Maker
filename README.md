@@ -69,7 +69,7 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 ## Contact
 
-If you have any questions or feedback, please contact me at [anish.fc0094.com].
+If you have any questions or feedback, please contact me at `anish.fc0094gmail.com`.
 
 ---
 
